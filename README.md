@@ -36,7 +36,7 @@
 
 ## 🔍 Deep Dives
 - [Short URL Generation](./deep-dives/short-url-generation.md)
-- [Scalability & Caching](./deep-dives/scalability.md)
+- [Scalability & Caching](./deepdives.md)
 
 ---
 
